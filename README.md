@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+My check list:
+[X] Generating the files and make the first commit
+[X] Creating the Main "Sections" (Pages)
