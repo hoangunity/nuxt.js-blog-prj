@@ -31,3 +31,4 @@ My check list:
 [X] Creating an Admin Section
 [X] Preparing the Backend
 [X] Improving the App
+[X] Adding a Separate Layout to the Admin Area
