@@ -29,3 +29,4 @@ My check list:
 [X] Adding the Header Component
 [X] Working on the Post Page
 [X] Creating an Admin Section
+[X] Preparing the Backend

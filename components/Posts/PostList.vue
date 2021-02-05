@@ -2,18 +2,22 @@
   <section class="post-list">
     <PostPreview
       id="1"
+      :is-admin="isAdmin"
       title="Hello there!"
       previewText="This is my first post!"
       thumbnailUrl="https://www.bworldonline.com/wp-content/uploads/2018/03/Powerful-Tech.jpg"
     />
     <PostPreview
       id="2"
-      title="Hello there - this is my second post!"
+      :is-admin="isAdmin"
+      title="Hello there - this is my
+    second post!"
       previewText="This is my second post!"
       thumbnailUrl="https://www.bworldonline.com/wp-content/uploads/2018/03/Powerful-Tech.jpg"
     />
     <PostPreview
       id="3"
+      :is-admin="isAdmin"
       title="I love You Phuong Thao"
       previewText="This is my third post!"
       thumbnailUrl="https://www.bworldonline.com/wp-content/uploads/2018/03/Powerful-Tech.jpg"
@@ -28,6 +32,12 @@ export default {
   name: "PostList",
   components: {
     PostPreview,
+  },
+  props: {
+    isAdmin: {
+      type: Boolean,
+      default: false,
+    },
   },
 };
 </script>
