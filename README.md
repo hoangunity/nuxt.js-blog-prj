@@ -27,3 +27,4 @@ My check list:
 [X] Splitting the page into Components
 [X] Adding Static Assets - The Background Image
 [X] Adding the Header Component
+[X] Working on the Post Page
