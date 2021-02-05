@@ -18,7 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
+```bash
 My check list:
 [X] Generating the files and make the first commit
 [X] Creating the Main "Sections" (Pages)
@@ -32,3 +32,4 @@ My check list:
 [X] Preparing the Backend
 [X] Improving the App
 [X] Adding a Separate Layout to the Admin Area
+```
