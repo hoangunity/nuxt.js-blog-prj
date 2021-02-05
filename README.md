@@ -23,3 +23,4 @@ My check list:
 [X] Generating the files and make the first commit
 [X] Creating the Main "Sections" (Pages)
 [X] Adding External Fonts
+[X] Creating the Landing Page
