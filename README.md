@@ -24,3 +24,4 @@ My check list:
 [X] Creating the Main "Sections" (Pages)
 [X] Adding External Fonts
 [X] Creating the Landing Page
+[X] Splitting the page into Components
