@@ -28,3 +28,4 @@ My check list:
 [X] Adding Static Assets - The Background Image
 [X] Adding the Header Component
 [X] Working on the Post Page
+[X] Creating an Admin Section
