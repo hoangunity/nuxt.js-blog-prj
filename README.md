@@ -26,3 +26,4 @@ My check list:
 [X] Creating the Landing Page
 [X] Splitting the page into Components
 [X] Adding Static Assets - The Background Image
+[X] Adding the Header Component
